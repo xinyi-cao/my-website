@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css?family=Courgette|Lora:400,700|Permanent+Marker|Poppins:400,700,800|Roboto&display=swap" rel="stylesheet");
+@import url("https://fonts.googleapis.com/css?family=Gochi+Hand|Permanent+Marker&display=swap" rel="stylesheet");
+@import url("components/style.css");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+
+html{background-color: #F58B54}
+body{font-family: 'Lora', serif;
+font-size: 18px;
+color: #fff8cd}
+
+
+p{font-family: 'Permanent Marker', cursive;
+font-size: 18px}
+
+h1,h2,h3，h4{font-family: 'Poppins', sans-serif;
+font-weight: bold;}
+a{text-decoration: none;}
